@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071700533173",
+    "project_id": "fucare-ed",
+    "storage_bucket": "fucare-ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071700533173:android:f1e9224e800a40e60483fc",
+        "android_client_info": {
+          "package_name": "com.example.fucare_android_studio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071700533173-rhmc2042e9i7cpl2ndt4e2mtbqsrplbq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB77gJARDZqypHo8jH2Myd6FceQD-tBpwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071700533173-rhmc2042e9i7cpl2ndt4e2mtbqsrplbq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
